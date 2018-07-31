@@ -1,0 +1,29 @@
+p.greeting {
+    width: 600px;
+    padding: 10px;
+    color: gray;
+}
+div#boot-chat {
+    width: 50%;
+    background: #2da546ab;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+}
+
+ p.flash-message.valid{
+   background: darkgreen;
+   color: #fff;
+}
+
+ p.flash-message.invalid{
+   background: red;
+  color: #fff;
+  display: inline-block;
+  padding: 0 10px;
+}
